@@ -90,9 +90,9 @@ if __name__ == "__main__":
 
 
 ### Output:
-<img width="952" height="411" alt="image" src="https://github.com/user-attachments/assets/ab123b70-2cd2-4ac6-8fbd-122ca09a33e5" />
+<img width="1417" height="707" alt="image" src="https://github.com/user-attachments/assets/1cf13b7d-0a0f-48ca-844e-b68953bc1cb7" />
 
-<img width="948" height="310" alt="image" src="https://github.com/user-attachments/assets/b655ca6e-b93b-4e38-b6c8-a82de3181e11" />
+<img width="1417" height="360" alt="image" src="https://github.com/user-attachments/assets/e0b6ea32-234f-4855-aac5-b44a127bf8b8" />
 
 ### Result:
 Thus, the implementation of Information Retrieval using Boolean model had been successfully executed using python
